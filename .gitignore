@@ -1,0 +1,11 @@
+# dependencies
+server/node_modules
+client/node_modules
+
+# production
+client/build
+
+#Web Storm IDE
+.idea/
+client/.idea/
+server/.idea/
